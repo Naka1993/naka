@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://amordiscostv.com/wp-content/uploads/2021/02/thumbnail_Logo-Amordiscos-600x600-alpha-300x300.png"
+group-title="MÚSICA",AMORDISCOS TV https://5b464b69d264e.streamlock.net:443/Channels_live/ngrp:amordiscos_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/676/896/png-transparent-headphones-tv-music-colorful-icon-headset-television-music.png"
+group-title="MÚSICA",CANAL SON TV https://server12.videostreaming.net:3628/stream/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/Canal-cumbia-en-vivo-277x156.jpg"
+group-title = "MÚSICA",98+CUMBIA https://tv.siete.us/mascumbiatvonline/mascumbiatvonline/index.m3u8
